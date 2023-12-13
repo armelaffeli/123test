@@ -1,0 +1,15 @@
+<?php 
+if(substr($_SERVER["REQUEST_URI"], -10) == "config.php"){header("Location:./");}; 
+$data['mikhmon'] = array ('1'=>'mikhmon<|<HL1','mikhmon>|>eZJjamRibWJobGJq');
+
+$data['UNIVERS'] = array ('1'=>'UNIVERS!12.5.19.98','UNIVERS@|@HL1','UNIVERS#|#eZJjamRibWJobGJq','UNIVERS%UNIVERS','UNIVERS^connexion.io','UNIVERS&Fcfa','UNIVERS*10','UNIVERS(1','UNIVERS)','UNIVERS=10','UNIVERS@!@enable');
+$data['WIFI-QUARTIER'] = array ('1'=>'WIFI-QUARTIER!12.5.19.98','WIFI-QUARTIER@|@HL1','WIFI-QUARTIER#|#eZJjamRibWJobGJq','WIFI-QUARTIER%WIFI QUARTIER','WIFI-QUARTIER^quartier.zone','WIFI-QUARTIER&Fcfa','WIFI-QUARTIER*10','WIFI-QUARTIER(1','WIFI-QUARTIER)','WIFI-QUARTIER=10','WIFI-QUARTIER@!@enable');
+
+$data['Mackensy'] = array ('1'=>'Mackensy!12.5.98.254','Mackensy@|@HL1','Mackensy#|#eZJjamRibWJobGJq','Mackensy%Boxideas','Mackensy^connexion.io','Mackensy&Fcfa','Mackensy*10','Mackensy(1','Mackensy)','Mackensy=10','Mackensy@!@enable');
+$data['BAK-SERVICE'] = array ('1'=>'BAK-SERVICE!tg.mnatogo.com:644','BAK-SERVICE@|@HL1','BAK-SERVICE#|#eZJjamRibWJobGJq','BAK-SERVICE%BAK SERVICES','BAK-SERVICE^bak.services','BAK-SERVICE&Fcfa','BAK-SERVICE*10','BAK-SERVICE(1','BAK-SERVICE)','BAK-SERVICE=10','BAK-SERVICE@!@enable');
+$data['PRINCE-WIFI'] = array ('1'=>'PRINCE-WIFI!12.5.19.98','PRINCE-WIFI@|@HL1','PRINCE-WIFI#|#eZJjamRibWJobGJq','PRINCE-WIFI%PRINCE WIFI','PRINCE-WIFI^prince.wifi','PRINCE-WIFI&Fcfa','PRINCE-WIFI*10','PRINCE-WIFI(1','PRINCE-WIFI)','PRINCE-WIFI=10','PRINCE-WIFI@!@enable');
+$data['MHK-WiFi'] = array ('1'=>'MHK-WiFi!12.5.19.98','MHK-WiFi@|@HL1','MHK-WiFi#|#eZJjamRibWJobGJq','MHK-WiFi%MHK Renaissance','MHK-WiFi^wifi.mhk','MHK-WiFi&Fcfa','MHK-WiFi*10','MHK-WiFi(1','MHK-WiFi)','MHK-WiFi=10','MHK-WiFi@!@enable');
+$data['WIFICOORPORATION'] = array ('1'=>'WIFICOORPORATION!12.5.19.98','WIFICOORPORATION@|@HL1','WIFICOORPORATION#|#eZJjamRibWJobGJq','WIFICOORPORATION%WIFI-COPORATION','WIFICOORPORATION^fidel.net','WIFICOORPORATION&Fcfa','WIFICOORPORATION*10','WIFICOORPORATION(1','WIFICOORPORATION)','WIFICOORPORATION=10','WIFICOORPORATION@!@enable');
+$data['univers--ONLINE'] = array ('1'=>'univers--ONLINE!cloud.mnatogo.com:6240','univers--ONLINE@|@HL1','univers--ONLINE#|#eZJjamRibWJobGJq','univers--ONLINE%BOX IDEA S','univers--ONLINE^connexion.io','univers--ONLINE&FCFA','univers--ONLINE*10','univers--ONLINE(1','univers--ONLINE)','univers--ONLINE=10','univers--ONLINE@!@enable');
+$data['KONE-WIFI'] = array ('1'=>'KONE-WIFI!12.5.19.98','KONE-WIFI@|@HL1','KONE-WIFI#|#eZJjamRibWJobGJq','KONE-WIFI%KONE WIFI','KONE-WIFI^kone.wifi','KONE-WIFI&FCFA','KONE-WIFI*10','KONE-WIFI(1','KONE-WIFI)','KONE-WIFI=10','KONE-WIFI@!@enable');
+$data['IB-WIFI'] = array ('1'=>'IB-WIFI!12.5.19.98','IB-WIFI@|@HL1','IB-WIFI#|#eZJjamRibWJobGJq','IB-WIFI%IB WIFI','IB-WIFI^ib.wifi','IB-WIFI&FCFA','IB-WIFI*10','IB-WIFI(1','IB-WIFI)','IB-WIFI=10','IB-WIFI@!@enable');
